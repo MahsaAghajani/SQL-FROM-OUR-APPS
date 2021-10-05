@@ -2,8 +2,8 @@
 
 ### To Do
 
-- [] Review the online library database
-- [] Perform `BREAD` or `CRUD` actions on database via command line app
-- [] How to avoid SQL injection attack
-- [] Serve database content to the browser(client)
-- [] Protect secrets with Environment Variables
+- [x] Review the online library database
+- [x] Perform `BREAD` or `CRUD` actions on database via command line app
+- [x] How to avoid SQL injection attack
+- [x] Serve database content to the browser(client)
+- [x] Protect secrets with Environment Variables

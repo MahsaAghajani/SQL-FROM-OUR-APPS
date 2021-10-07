@@ -3,7 +3,6 @@ const router = express.Router();
 
 const {getAllBooks, getBookById} = require('./../db/bookQueries')
 
-
 router.get('/', (req, res) => {
     getAllBooks(books => {
         res.json(books);

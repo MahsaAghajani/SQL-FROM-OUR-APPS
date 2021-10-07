@@ -1,4 +1,3 @@
-const { builtinModules } = require('module');
 const {Client} = require('pg');
 
 // browser <===> server <====> RDBMS(psql)
